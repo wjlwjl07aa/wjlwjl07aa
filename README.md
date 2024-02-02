@@ -8,8 +8,8 @@
 - 🏴 I’m currently working on ... being retired, coding for fun, enjoying a [_Bohemian_](https://en.wikipedia.org/wiki/Beatnik) lifestyle.</li> 
 - 🏴 I’m currently learning ... GitHub, React, NodeJs, JavaScript
 - 🏴 The facts: Seventeen wonderful years as mediocre coder
-- 🏴 The facts: Thirteen soul-destroying years in IT Management and Enterprise Architecture. 
-- 🏴 Fun fact : Two years of bliss getting paid for hacking Common LSIP on a Symobolic 3640
+- 🏴 The facts: Ten soul-destroying years in IT Management and Enterprise Architecture. 
+- 🏴 Fun fact : Two years of getting paid for hacking Common LSIP on a Symobolic 3640
 - 🐈‍⬛ Pronouns: HE, HIM, OG
 <br><br>
 <hr>
